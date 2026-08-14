@@ -34,7 +34,6 @@
 
 - 🎓 **Education:** Pursuing **M.Tech in Computer Science & Engineering** at **Netaji Subhas University of Technology (NSUT), Delhi** *(2025–2027)* | B.Tech CSE Graduate *(2021–2025)*.
 - 🏆 **GATE CSE:** Secured **94.19 Percentile** in GATE Computer Science examination.
-- 💼 **Experience:** Former **Software Engineer Intern** at *Ornate TechnoServices Pvt. Ltd.* — Engineered scalable RESTful APIs (Node.js/Express.js), optimized MongoDB indexing, and built dynamic React components.
 - ⚙️ **Core Focus:** Distributed Full-Stack Architecture, Real-Time Web Systems (Socket.io), RESTful APIs, Data Structures & Algorithms (DSA), OOPS, DBMS & OS.
 
 ---
@@ -126,12 +125,6 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vaibhavpandey8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vaibhav's GitHub Stats" />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vaibhavpandey8&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaibhavpandey8&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
 </div>
 
 <br>

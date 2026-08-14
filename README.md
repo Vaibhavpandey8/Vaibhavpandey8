@@ -164,13 +164,18 @@
 <div align="center">
   <h3>🤝 Let's Connect & Collaborate!</h3>
   
-  <p>
-    <a href="https://linkedin.com/in/vaibhav-pandey-52685524b/"><img src="https://img.shields.io/badge/LinkedIn-Vaibhav_Pandey-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:vaibhavpandey729@gmail.com"><img src="https://img.shields.io/badge/Email-vaibhavpandey729@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
-    <a href="https://www.geeksforgeeks.org/profile/vaibhavpandey47"><img src="https://img.shields.io/badge/GeeksforGeeks-vaibhavpandey47-2F8D46?style=for-the-badge&logo=geeksforgeeks" /></a>
+  <p align="center">
+    <a href="https://linkedin.com/in/vaibhav-pandey-52685524b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:vaibhavpandey729@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/profile/vaibhavpandey47">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+    <a href="https://github.com/Vaibhavpandey8">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
-
-  <br>
-
-  <sub><i>Designed with ❤️ for Vaibhav Pandey | GitSkins Styled Profile</i></sub>
 </div>

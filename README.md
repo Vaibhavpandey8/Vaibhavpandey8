@@ -133,9 +133,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavpandey8&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
----
-
-### 🐍 Contribution Graph Snake
+<br>
 
 <div align="center">
   <picture>

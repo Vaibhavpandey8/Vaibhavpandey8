@@ -131,13 +131,13 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaibhavpandey8&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vaibhavpandey8&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavpandey8&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavpandey8&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -169,7 +169,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:vaibhavpandey729@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail=white" alt="Email" />
     </a>
     <a href="https://www.geeksforgeeks.org/profile/vaibhavpandey47">
       <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
